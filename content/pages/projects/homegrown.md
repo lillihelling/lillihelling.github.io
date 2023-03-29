@@ -25,5 +25,13 @@ My bedroom has always been a place of the upmost comfort and privacy. The furnis
 
 ![ceramic couch in an art gallery](/img/homegrown/gallery+view+couch+right.jpeg)
 
+![ceramic chair in an art gallery](/img/homegrown/chair.jpeg)
+
 ![small diorama of a room made of stoneware, glazed pink](/img/homegrown/I+Grew+Up+Here.jpeg)
+
+![small diorama of a room made of stoneware, glazed pink](/img/homegrown/I+Moved+Back+Home.jpeg)
+
+![small diorama of a room made of stoneware, glazed pink](/img/homegrown/I+Never+Lived+Outside+New+York+Before.jpeg)
+
+![view of dioramas on pedestals in an art gallery](/img/homegrown/pedestal+view+dioramas.jpeg)
 
