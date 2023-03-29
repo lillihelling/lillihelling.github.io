@@ -30,5 +30,10 @@ Control of the distinct physical experiences of comfort and discomfort often com
 
 ![Handmade ceramic sink and towel rack](/img/welcome-home/sink+and+towel+rack.jpeg)
 
-![Close up of handmade ceramic sink, filled with ceramic forks and pretzels](/img/welcome-home/close+up+sink.jpeg)
+![Close up of handmade ceramic sink, filled with ceramic spoons, plates and pretzels](/img/welcome-home/close+up+sink.jpeg)
 
+![full scene of ceramic objects in a room set up](/img/welcome-home/full+3.jpeg)
+
+![close up of ceramic table with ceramic cups and forks on top](/img/welcome-home/table+close+up+cup.jpeg)
+
+![Ceramic toilet, chair and table](/img/welcome-home/toilet+chaIR+TABLE.jpeg)
