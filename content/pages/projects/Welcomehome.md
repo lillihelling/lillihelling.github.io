@@ -28,3 +28,7 @@ Control of the distinct physical experiences of comfort and discomfort often com
 
 ![pink ceramic toilet](/img/welcome-home/Helling_1.jpeg)
 
+![Handmade ceramic sink and towel rack](/img/welcome-home/sink+towel+rack.jpeg)
+
+![Close up of handmade ceramic sink, filled with ceramic forks and pretzels](/img/welcome-home/close+up+sink.jpeg)
+
