@@ -1,5 +1,5 @@
 /* font imports here */
-@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400;1,600&family=IBM+Plex+Serif:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nabla&family=Space+Grotesk:wght@400;700&display=swap");
 *,
 *::before,
 *::after {
@@ -35,7 +35,7 @@ body {
 /* This line sets the font for headers, including the site title*/
 :root {
   font-size: 110%;
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: "Space Grotesk", sans-serif;
 }
 
 h1 {
@@ -64,7 +64,7 @@ h5,
 h6 {
   margin-top: 0.75em;
   margin-bottom: 0.25em;
-  font-family: "IBM Plex Serif", serif;
+  font-family: "Nabla", serif;
   display: block;
   max-width: 40rem;
 }
@@ -78,6 +78,9 @@ p > img {
   width: 100%;
 }
 
+main {
+  background-color: #f78d8d;
+}
 main ul,
 main ol {
   padding-inline-start: 1em;
@@ -98,14 +101,14 @@ body {
 .main-nav-container {
   width: clamp(250px, 30%, 500px);
   position: fixed;
-  background-color: #d4d4d4;
+  background-color: #f3712f;
   height: 100%;
   padding: 1rem;
   z-index: 10;
   transition: all 0.5s;
 }
 .main-nav-container hr {
-  color: black;
+  color: rgb(4, 4, 4);
 }
 
 .site-masthead {
@@ -130,7 +133,7 @@ body {
   padding-inline-start: 0;
 }
 .sidebar-nav-link-section * {
-  color: black;
+  color: rgb(4, 4, 4);
   text-decoration: none;
 }
 .sidebar-nav-link-section a {
@@ -249,7 +252,7 @@ pre {
   background-color: white;
   transform: scale(90%);
   transition: all 0.5s;
-  color: black;
+  color: rgb(4, 4, 4);
   text-decoration: none;
 }
 .portfolio-tile-text-overlay :first-child {
@@ -368,7 +371,7 @@ html {
   }
   .main-nav {
     transform: none;
-    background-color: #d4d4d4;
+    background-color: #f3712f;
     opacity: 1;
     transition: all 0.3s;
     padding-left: 1rem;
@@ -475,12 +478,12 @@ section.big-text > * {
 }
 .component-inline-nav .sibling-navigation a,
 .component-inline-nav .sibling-navigation a:visited {
-  color: black;
+  color: rgb(4, 4, 4);
   text-decoration: none;
 }
 .component-inline-nav .sibling-navigation a:hover,
 .component-inline-nav .sibling-navigation a:focus {
-  background-color: lightpink;
+  background-color: rgb(243, 136, 152);
 }
 .component-inline-nav .sibling-navigation > :first-child {
   text-align: left;
